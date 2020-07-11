@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-bruno.cbarbosa90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.cbarbosa90@gmail.com)](mailto:bruno.cbarbosa90@gmail.com)
 
 ## Hello People 👋,           
-I'm Bruno César Barbosa, 💻 a development lover. I actually have 30 years old, finished Information System in 2020.
+A Web developer lover, Maybe a Game Developer someday 💻. I actually have 30 years old, finished Information System in 2020.
 
 ## 🧐 About Me
 - 🔭 learning every day Typescript.
