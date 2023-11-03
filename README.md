@@ -10,9 +10,9 @@ A Web Develop lover, always learning new things, and looking for news chalenges 
 
 ## 🧐 About Me
 - 🔭 learning every day.
-- 🌱 Fullstack developer. 
-- ⚡ Backend: Nodejs with Typescript
-- 🏄‍ Frontend Web/Mobile: ReactJs and React Native.
+- 🌱 Backend developer. 
+- ⚡ Backend: Nodejs with Javascript/Typescript
+- 🏄‍ Frontend knowledge Web/Mobile: ReactJs and React Native.
 - 😄 Actually I have a game made in Javascript with p5.js, the repository is opened, to play it, click [here](https://biohazard-escape.netlify.app).
 
 ## 👨‍💻 Technologies
