@@ -1,7 +1,7 @@
 # Bruno César Barbosa ![](https://komarev.com/ghpvc/?username=brunocbarbosa&color=blue)
 <a href = "https://www.linkedin.com/in/bruno-barbosa-35294718a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto: bruno.cbarbosa90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.instagram.com/bruno_.barbosa/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+< !-- <a href = "https://www.instagram.com/bruno_.barbosa/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  -- >
 
 ## Hello People 👋,           
 A Web Develop lover, always learning new things, and looking for news chalenges 💻.
